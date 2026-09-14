@@ -1,0 +1,11 @@
+{
+  "version": "0.4.7",
+  "notes": "Ligeia can now update itself.\n\n• Checks for a new version on startup, in the background.\n• Nothing installs until you click Update & Restart.\n• Manual check and an on/off switch in Settings → Updates.\n• Updates are cryptographically signed and verified before installing.",
+  "pub_date": "2026-09-14T06:25:54Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV0NOb2lzUUpIKzgrUEp3S3VRd1dSK1c3N0ViSS9Mcy9GazhKcEZaSlBIT0cybjlDTjFGdmJlcEtxMW5TelJBL3lzNjRaMGtZY0oxUlRRL0dscWRYRmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzY2NTgxCWZpbGU6TGlnZWlhXzAuNC43X3g2NC1zZXR1cC5leGUKejYwKzR6aW51V2VDN012YTZTdVdUYWpQWEZia2xJUnkxeTQzdVQwOEc3cjRlSTVxR2tmcnBiMkxmRWtWU21oYW5YQ2kyUDZYTjE3eUhOeFA4R3IrQUE9PQo=",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.7_x64-setup.exe"
+    }
+  }
+}
