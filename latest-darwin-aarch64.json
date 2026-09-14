@@ -1,10 +1,10 @@
 {
   "version": "0.4.7",
   "notes": "Ligeia can now update itself.\n\n\u2022 Checks for a new version on startup, in the background.\n\u2022 Nothing installs until you click Update & Restart.\n\u2022 Manual check and an on/off switch in Settings \u2192 Updates.\n\u2022 Updates are cryptographically signed and verified before installing.",
-  "pub_date": "2026-09-14T07:21:40Z",
+  "pub_date": "2026-09-14T08:21:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV01KZVhrNXYrNG5vVzR0Wk44d0dLbDBlbys0UDJXN2g1cWFENnZKTEpQbGtoRkxWV05LUGhUdkdyMHExellQcmhYM3FRbzFYZkFxODdXL3UrcjhQRWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzcwNDU5CWZpbGU6TGlnZWlhLmFwcC50YXIuZ3oKMHp0ZG82L2NIUkRoVEM0Vm41YkhqaFJZUVBZTVBQRFppeFY1Z0szQXhaUUlHYUU2VHhHVmdDNHorQXJEKzNTdFhuSVViWVZ1ank2Y21iTXBOL2J3Qmc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV0piN2VZMUZxUjJOWGp3V1h4aHZHcmtDWU9kN1dMYWdYZXlodkZmZ015YlVlWFhTUkR4b3doN2ZCaUJKK3V3cVlWSGdBMW1HaW9sV3gvRXdSLzlUaHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzczNjM3CWZpbGU6TGlnZWlhLmFwcC50YXIuZ3oKb0RscWdna1NPYnJqWWt6ZU50a0dwZmwra1p5ZUJWNzBoV1NlUkYrL25HZHdBek91K0VGMlltT2NuYnNCeW5XblUvY3V2c0xzMTV5dzdJRVcyS2ZBQWc9PQo=",
       "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.7_aarch64.app.tar.gz"
     }
   }
