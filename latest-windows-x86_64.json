@@ -1,11 +1,11 @@
 {
-  "version": "0.4.9",
-  "notes": "The Stream Deck plugin works now.\n\n• Fixed: on an installed Ligeia, the connection the Stream Deck plugin\n  needs never started — so every button did nothing, with no error shown.\n• The plugin itself is updated for Stream Deck 7.1+; redeploy it to\n  pick that up.",
-  "pub_date": "2026-09-18T18:33:05Z",
+  "version": "0.4.10",
+  "notes": "Drop sounds straight onto an atmosphere.\n\n• Drag sounds from the mixer onto any atmosphere (or sub-atmosphere) in\n  the sidebar to add them — no need to open it, nothing stops playing.\n• Drag a multi-selection to add them all at once.\n• A sound already there is left untouched, settings and all.\n• The atmosphere list no longer offers drops it cannot accept, and\n  renesting atmospheres finally shows what you are doing.",
+  "pub_date": "2026-09-18T20:30:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV0NpRnNhclRha2g5SWw2bUphbnFRQjF6K253VkJuQzJNVXN5cW94MGVFQ25hVVRXc2toZmxabzEyZW5DMy9vdnBwaHZXN3lSSkRPRHZiNnpZZWJxWWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzU2MzY4CWZpbGU6TGlnZWlhXzAuNC45X3g2NC1zZXR1cC5leGUKUHBQODRMRk9VVklCV0dLUlB4djJpRWk4Y2RUVnhKMER3d1ppZjhTT1NmbUFOek9rdUJiM3pjMm5LWkpIU1E4ZTFxRzJmQTh5amIrb3AwUkJoZG1RRGc9PQo=",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV1Arb255aFc4VWpCRTdVVTZJUmxHOWZZOFdFcUtBYmZ6QXNLUGFLWEhtaWhhaFphODgwUnpPQ2YxOHRMNno2ZUo2cG1DNlFQODkrZTd6NXdudjhlSXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzYzMzgzCWZpbGU6TGlnZWlhXzAuNC4xMF94NjQtc2V0dXAuZXhlCnNCaG9ZZG52TnhBa0F4YW5STkpNczB3RnZZdU11alI2QmpXUndCc1Ftenl4U21aWGlrUnlvTnltbDJKT3JDSE5QY0hRT0l6SzEweHdVY0pFYVF0d0FRPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.10_x64-setup.exe"
     }
   }
 }
