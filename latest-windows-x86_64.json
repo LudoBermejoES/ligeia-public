@@ -1,11 +1,11 @@
 {
-  "version": "0.4.7",
-  "notes": "Ligeia can now update itself.\n\n• Checks for a new version on startup, in the background.\n• Nothing installs until you click Update & Restart.\n• Manual check and an on/off switch in Settings → Updates.\n• Updates are cryptographically signed and verified before installing.",
-  "pub_date": "2026-09-14T06:25:54Z",
+  "version": "0.4.8",
+  "notes": "Updates install correctly now.\n\n• In v0.4.7 no update could be installed — that is fixed.\n• The mixer opens in pad view again, whatever your library size.\n• Drag sounds into an atmosphere from list and column views.\n• Column view redesigned, with a volume slider that actually works.",
+  "pub_date": "2026-09-18T16:23:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV0NOb2lzUUpIKzgrUEp3S3VRd1dSK1c3N0ViSS9Mcy9GazhKcEZaSlBIT0cybjlDTjFGdmJlcEtxMW5TelJBL3lzNjRaMGtZY0oxUlRRL0dscWRYRmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzY2NTgxCWZpbGU6TGlnZWlhXzAuNC43X3g2NC1zZXR1cC5leGUKejYwKzR6aW51V2VDN012YTZTdVdUYWpQWEZia2xJUnkxeTQzdVQwOEc3cjRlSTVxR2tmcnBiMkxmRWtWU21oYW5YQ2kyUDZYTjE3eUhOeFA4R3IrQUE9PQo=",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV0RLaUJzd3NJRUQyN3VFcUExOUlxem1lTEY0M3RJTlIvU2pzcjZtUTJFeU1sSklQVUZrTHpISjF3MnVFd1lOWnZiZzJGQjBGd1grS3c1WTU4cTMra1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzQ4NjA5CWZpbGU6TGlnZWlhXzAuNC44X3g2NC1zZXR1cC5leGUKUnEzUnEwSldFU1VPQWV5aVVvRENPOUZxaGVXRzlLdzJyREdkOHJsblMrdHBkSTUrNGdxaXM0dFJIeTVDWDcycElVa29XS0g5R0pLa2dNMHQvRG51Qmc9PQo=",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.8_x64-setup.exe"
     }
   }
 }
