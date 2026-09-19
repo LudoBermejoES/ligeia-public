@@ -1,11 +1,11 @@
 {
-  "version": "0.4.10",
-  "notes": "Drop sounds straight onto an atmosphere.\n\n• Drag sounds from the mixer onto any atmosphere (or sub-atmosphere) in\n  the sidebar to add them — no need to open it, nothing stops playing.\n• Drag a multi-selection to add them all at once.\n• A sound already there is left untouched, settings and all.\n• The atmosphere list no longer offers drops it cannot accept, and\n  renesting atmospheres finally shows what you are doing.",
-  "pub_date": "2026-09-18T20:30:06Z",
+  "version": "0.4.11",
+  "notes": "Dragging sounds onto an atmosphere works now.\n\n• 0.4.10's new feature could not work at all — the drag never reached\n  the atmosphere list. Drag sounds onto any atmosphere or sub-atmosphere.\n• You can finally see what you are dragging: the indicator follows the\n  cursor and says how many sounds you are carrying.",
+  "pub_date": "2026-09-19T07:37:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV1Arb255aFc4VWpCRTdVVTZJUmxHOWZZOFdFcUtBYmZ6QXNLUGFLWEhtaWhhaFphODgwUnpPQ2YxOHRMNno2ZUo2cG1DNlFQODkrZTd6NXdudjhlSXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzYzMzgzCWZpbGU6TGlnZWlhXzAuNC4xMF94NjQtc2V0dXAuZXhlCnNCaG9ZZG52TnhBa0F4YW5STkpNczB3RnZZdU11alI2QmpXUndCc1Ftenl4U21aWGlrUnlvTnltbDJKT3JDSE5QY0hRT0l6SzEweHdVY0pFYVF0d0FRPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV010SkgzUVI5VUhSNDJCKzd3eTJFZWFxUzdhajRaYkp3eEQ4Si9Uck94dWRDWGppd1BWSUkrTVRsa0RHVnp3Z0FBMklxNk5qeWVTNGFzQXpuMTAzb1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODAzNDY4CWZpbGU6TGlnZWlhXzAuNC4xMV94NjQtc2V0dXAuZXhlCmNlUmVaWjJ2YWh0djQ0WWZVUzZZOWtZRHVWc0VaVGtXZjB1azFGU2Rwa2pYRllUNlBhY2wreWxUM2lxTDk2cVoxNDM0SndaYU95ZUlOMkhBYllwZUNnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.11_x64-setup.exe"
     }
   }
 }
