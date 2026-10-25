@@ -1,11 +1,11 @@
 {
-  "version": "0.4.12",
-  "notes": "The atmosphere sidebar is wider.\n\n• All six buttons on an atmosphere are reachable now — play, edit,\n  membership, move, duplicate and delete. The panel was too narrow, so the\n  last four were simply cut off.",
-  "pub_date": "2026-09-19T08:56:54Z",
+  "version": "0.4.13",
+  "notes": "Maintenance update.\n\n\u2022 Ligeia now runs on Tauri 2.12 and up-to-date versions of its other\n  libraries. No visible changes \u2014 this release keeps the foundations current.",
+  "pub_date": "2026-10-25T14:01:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV0s0Nk5PMFNDaXk5VzNpc0QzeVZNd25Ta21qRWU1ZlhIWnhWd1VNaEg0V1A0Mnk0ZjZLOG0vNUk0dTR2bkRhL0kxRTdtNE42Z1l1RTJZSExKcVhoTHdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODA4MjAzCWZpbGU6TGlnZWlhXzAuNC4xMl94NjQtc2V0dXAuZXhlCklKVkpsUzdhRjZnNFRoSUJWUWZzcSs2VFFoVEtBSHZpZC9IcHZVQk9sQWVuQ3IzY0MwZ3p6MkZlaC9YYUdmTlF0WllQRDRwMVh0WGErWmJDRlMveEJ3PT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV1BQOEdkOE1aM2RmK1JhcDVQNWZZRVBNbU9WYVluN29iWU1uQ25DbWtuM3o3M0pGK3JteityM3dMUndxa0FPN0pqbWk4dDZKSkdIRkNKZituTVFsbXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM2ODM5CWZpbGU6TGlnZWlhXzAuNC4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEzCm5EbU0xRWhiWFgweWRDZHFhZm82TGUyeHg3WWFGU2NqWHRlSHQrODV5K3d5cnY0TlNKR0E4UmpjNmFySTh2OFBKTlBGa25NZkswZE8zTGJPVmdQNkRRPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.13_x64-setup.exe"
     }
   }
 }
