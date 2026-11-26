@@ -1,11 +1,11 @@
 {
-  "version": "0.4.13",
-  "notes": "Maintenance update.\n\n\u2022 Ligeia now runs on Tauri 2.12 and up-to-date versions of its other\n  libraries. No visible changes \u2014 this release keeps the foundations current.",
-  "pub_date": "2026-10-25T14:01:27Z",
+  "version": "0.4.14",
+  "notes": "New: \"Play in sequence\" \u2014 play an atmosphere's sounds one after another like a playlist, with a live queue (next/previous, reorder, remove, shuffle, repeat, crossfade), Play next / Add to queue in every mixer view, and Stream Deck buttons.",
+  "pub_date": "2026-11-26T07:37:54Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV1BQOEdkOE1aM2RmK1JhcDVQNWZZRVBNbU9WYVluN29iWU1uQ25DbWtuM3o3M0pGK3JteityM3dMUndxa0FPN0pqbWk4dDZKSkdIRkNKZituTVFsbXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTM2ODM5CWZpbGU6TGlnZWlhXzAuNC4xM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEzCm5EbU0xRWhiWFgweWRDZHFhZm82TGUyeHg3WWFGU2NqWHRlSHQrODV5K3d5cnY0TlNKR0E4UmpjNmFySTh2OFBKTlBGa25NZkswZE8zTGJPVmdQNkRRPT0K",
-      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.13_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY2JpVkpoU3pBV1BoOXNtTnhzV3FzdjVQM21KT016a0dGUHd4WXVOU2dsQVlHWHFyWjVkQmxhaExDTEpQN3htUGVGYTFnbW1sRUdsbU9lbmhYTXdiUCtJNnUybDZPbFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njc4NjU0CWZpbGU6TGlnZWlhXzAuNC4xNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjE0ClRkcE56dktuT1cyOGlxM1lUMXlhZm1hODR4M3JUazduOGsvU2JCTmhiTVRyc0p1ejlocHNON0FtaFQ2c3hNMGRxT2U5MUR4djRhWVFhQ0JRYjMvckNnPT0K",
+      "url": "https://raw.githubusercontent.com/LudoBermejoES/ligeia-public/main/Ligeia_0.4.14_x64-setup.exe"
     }
   }
 }
